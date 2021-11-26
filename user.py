@@ -44,6 +44,7 @@ brandon_schumacher.transfer_money(jill_doe, 100)
 brandon_schumacher.display_user_balance()
 jill_doe.display_user_balance()
 
+
 #! Instructor's solution
 # class User:
 
