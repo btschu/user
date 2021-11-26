@@ -18,7 +18,7 @@ For this assignment, we'll add some functionality to the User class:
 > - BONUS: transfer_money(self, other_user, amount) - have this method decrease the user's balance by the amount and add that amount to other >   other_user's balance
 __________________________________________________________________________________________________________________
 
-> #### Tasks
+#### Tasks
 
 - [X] Create a file with the User class, including the __init__ and make_deposit methods
 
